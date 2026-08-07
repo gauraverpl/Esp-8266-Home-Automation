@@ -18,3 +18,62 @@ LCD 16x2 with I2C Module	1
 Jumper Wires	As required
 
 Breadboard (testing)	1
+
+# Optional
+Push Buttons (manual control)
+
+Buzzer
+
+LED indicators
+
+Fuse
+
+SMPS enclosure
+
+# How System Works
+
+
+                                               Google Assistant
+
+                                                     │
+        
+                                                     │
+        
+                                                     ▼
+        
+                                                  Google Home
+   
+                                                     │
+        
+                                                     ▼
+                                                     
+                                                Sinric Pro Cloud
+                                                
+    
+                                                     │
+                                                     
+                                                 Internet (WiFi)
+                                                
+                                                     │
+                                                     
+                                                     ▼
+                                                     
+                                                   ESP8266
+                                                  
+                                                     │
+                                                     
+                                              ┌──────┼─────────┐
+                                              
+                                              │      │         │
+                                              
+                                              ▼      ▼         ▼
+                                              
+                                         Relay1 Relay2   Relay3 Relay4
+
+                                                     │
+                                                     
+                                                     ▼
+                                                     
+                                                 LCD 16x2
+                                                 
+                                                Shows Status
