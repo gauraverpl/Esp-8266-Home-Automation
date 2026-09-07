@@ -77,3 +77,9 @@ SMPS enclosure
                                                  LCD 16x2
                                                  
                                                 Shows Status
+
+                                                
+
+
+
+  <img width="512" height="351" alt="Home_automation_using_NodeMCU4 (1)" src="https://github.com/user-attachments/assets/52f2b04b-175c-4234-be06-e76f19fce27c" />
