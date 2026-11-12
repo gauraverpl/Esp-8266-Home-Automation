@@ -93,9 +93,13 @@ SMPS enclosure
 # 5. Sinric Pro configuration
 Create four separate Switch devices in your Sinric Pro account.
 Device	Name	Hardware
+
 Switch 1	Living Room Light	Relay 1
+
 Switch 2	Bedroom Light	Relay 2
+
 Switch 3	Fan	Relay 3
+
 Switch 4	Main Appliance	Relay 4
 
 
