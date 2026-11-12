@@ -80,9 +80,22 @@ SMPS enclosure
 
                                                 
 <img width="742" height="408" alt="1615453918-external-power-supply-circuit" src="https://github.com/user-attachments/assets/275a4968-8f32-473d-aa17-8ba531767b32" />
+# circuit diagram 
+
+<img width="1492" height="1054" alt="home" src="https://github.com/user-attachments/assets/74e44d3d-cc42-4417-aa43-76696ee8fdc3" />
+
+
 
 # PCB DESIGN
 <img width="472" height="380" alt="Arduino-IoT-Cloud-Home-Automation-PCB (1)" src="https://github.com/user-attachments/assets/9657f4a3-abc1-4397-a701-e8ba9ec61966" />
 
+
+# 5. Sinric Pro configuration
+Create four separate Switch devices in your Sinric Pro account.
+Device	Name	Hardware
+Switch 1	Living Room Light	Relay 1
+Switch 2	Bedroom Light	Relay 2
+Switch 3	Fan	Relay 3
+Switch 4	Main Appliance	Relay 4
 
 
