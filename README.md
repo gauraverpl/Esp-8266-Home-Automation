@@ -83,4 +83,5 @@ SMPS enclosure
 
 
 
-  <img width="512" height="351" alt="Home_automation_using_NodeMCU4 (1)" src="https://github.com/user-attachments/assets/52f2b04b-175c-4234-be06-e76f19fce27c" />
+  <img width="1080" height="810" alt="FB_IMG_1709381782180" src="https://github.com/user-attachments/assets/7d14a598-3f16-495d-b017-15124fe605a6" />
+
