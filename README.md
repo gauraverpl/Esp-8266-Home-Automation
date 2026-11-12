@@ -79,6 +79,7 @@ SMPS enclosure
                                                 Shows Status
 
                                                 
+<img width="742" height="408" alt="1615453918-external-power-supply-circuit" src="https://github.com/user-attachments/assets/275a4968-8f32-473d-aa17-8ba531767b32" />
 
 
 
