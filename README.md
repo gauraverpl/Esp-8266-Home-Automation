@@ -102,4 +102,70 @@ Switch 3	Fan	Relay 3
 
 Switch 4	Main Appliance	Relay 4
 
+# 7. Working Principle
+
+The ESP8266 initializes its relay outputs and LCD.
+
+It connects to the Wi-Fi network.
+
+The device establishes communication with Sinric Pro.
+
+The user sends a switching command through the mobile application or Google Assistant.
+
+Sinric Pro sends the command to the ESP8266.
+
+The corresponding relay switches the connected appliance.
+
+The LCD updates the current relay status.
+
+# 8. Features
+
+Four independent appliance controls.
+
+Wireless control through Wi-Fi.
+
+Mobile application integration.
+
+Google Assistant voice control.
+
+Cloud-based communication.
+
+LCD-based status monitoring.
+
+Compact electronic hardware design.
+
+# 9. Engineering Skills
+
+Embedded C/C++ Programming
+
+ESP8266 Microcontroller
+
+Digital Input/Output Interfacing
+
+Relay Driver Interfacing
+
+I2C Communication Protocol
+
+Power Supply Design
+
+IoT Communication
+
+Hardware-Software Integration
+
+Electronic Circuit Development
+
+# 10. Future Scope
+
+Energy monitoring using current sensors.
+
+Local web-based appliance control.
+
+Scheduled appliance operation.
+
+Offline control functionality.
+
+PCB miniaturization.
+
+Power consumption optimization.
+
 
