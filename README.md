@@ -82,6 +82,6 @@ SMPS enclosure
 <img width="742" height="408" alt="1615453918-external-power-supply-circuit" src="https://github.com/user-attachments/assets/275a4968-8f32-473d-aa17-8ba531767b32" />
 
 
+<img width="512" height="351" alt="Home_automation_using_NodeMCU4" src="https://github.com/user-attachments/assets/9c12d47f-6dd1-4d8e-825a-fca1a19aa11e" />
 
-  <img width="1080" height="810" alt="FB_IMG_1709381782180" src="https://github.com/user-attachments/assets/7d14a598-3f16-495d-b017-15124fe605a6" />
 
